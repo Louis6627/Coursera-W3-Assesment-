@@ -1,36 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Louis6627 
-prajjwalkumarpanzade
-/
-ProgrammingAssignment2
-Public
-forked from rdpeng/ProgrammingAssignment2
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-ProgrammingAssignment2/cachematrix.R
-@prajjwalkumarpanzade
-prajjwalkumarpanzade Update cachematrix.R
-Latest commit 8ade71c 2 hours ago
- History
- 2 contributors
-@rdpeng@prajjwalkumarpanzade
-42 lines (35 sloc)  1.96 KB
-   
 Put comments here that give an overall description of what your
 ## functions do
 ## These functions written in partial fulfillment of Coursera Data Science: R Programming 
-## Week 3 Assignment; week beginning January 18, 2016; GitHub user: PamlaM
 
 ## Write a short comment describing this function
 
@@ -69,4 +39,3 @@ cacheSolve <- function(x, ...) {
     x$setinverse(inv)
     inv
 }
-
